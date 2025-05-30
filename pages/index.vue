@@ -64,6 +64,22 @@ const mockEvents = [
     image: '/images/event1.jpg'
   },
   {
+    id: 'event1',
+    title: 'Opening Keynote',
+    description: 'The future of technology with our special guest speakers discussing emerging trends and innovations.',
+    date: '2023-12-15T09:00:00',
+    location: 'Main Hall',
+    image: '/images/event1.jpg'
+  },
+  {
+    id: 'event1',
+    title: 'Opening Keynote',
+    description: 'The future of technology with our special guest speakers discussing emerging trends and innovations.',
+    date: '2023-12-15T09:00:00',
+    location: 'Main Hall',
+    image: '/images/event1.jpg'
+  },
+  {
     id: 'event2',
     title: 'Web Development Workshop',
     description: 'Hands-on workshop covering modern web development with Nuxt.js, Vue 3, and best practices.',
